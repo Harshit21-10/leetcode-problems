@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Harshit21-10/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0392-is-subsequence](https://github.com/Harshit21-10/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Harshit21-10/leetcode-problems/tree/master/0844-backspace-string-compare) |
 ## Stack
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Harshit21-10/leetcode-problems/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Harshit21-10/leetcode-problems/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Harshit21-10/leetcode-problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
