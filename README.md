@@ -19,4 +19,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Harshit21-10/leetcode-problems/tree/master/0844-backspace-string-compare) |
+## Tree
+|  |
+| ------- |
+| [0993-cousins-in-binary-tree](https://github.com/Harshit21-10/leetcode-problems/tree/master/0993-cousins-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0993-cousins-in-binary-tree](https://github.com/Harshit21-10/leetcode-problems/tree/master/0993-cousins-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0993-cousins-in-binary-tree](https://github.com/Harshit21-10/leetcode-problems/tree/master/0993-cousins-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0993-cousins-in-binary-tree](https://github.com/Harshit21-10/leetcode-problems/tree/master/0993-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
