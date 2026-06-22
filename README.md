@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Harshit21-10/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/Harshit21-10/leetcode-problems/tree/master/0682-baseball-game) |
+| [2239-find-closest-number-to-zero](https://github.com/Harshit21-10/leetcode-problems/tree/master/2239-find-closest-number-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
