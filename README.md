@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Harshit21-10/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Harshit21-10/leetcode-problems/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Harshit21-10/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Harshit21-10/leetcode-problems/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Harshit21-10/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Harshit21-10/leetcode-problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
