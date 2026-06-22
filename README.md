@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Harshit21-10/leetcode-problems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshit21-10/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Harshit21-10/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Harshit21-10/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Harshit21-10/leetcode-problems/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/Harshit21-10/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit21-10/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshit21-10/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshit21-10/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Harshit21-10/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Harshit21-10/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 ## Sliding Window
 |  |
