@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Harshit21-10/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Harshit21-10/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/Harshit21-10/leetcode-problems/tree/master/0682-baseball-game) |
+| [0875-koko-eating-bananas](https://github.com/Harshit21-10/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit21-10/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Harshit21-10/leetcode-problems/tree/master/2239-find-closest-number-to-zero) |
 ## Prefix Sum
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshit21-10/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshit21-10/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0875-koko-eating-bananas](https://github.com/Harshit21-10/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 ## Sliding Window
 |  |
 | ------- |
