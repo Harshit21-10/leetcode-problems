@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Harshit21-10/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshit21-10/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshit21-10/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/Harshit21-10/leetcode-problems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshit21-10/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Harshit21-10/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/Harshit21-10/leetcode-problems/tree/master/0682-baseball-game) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshit21-10/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshit21-10/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Harshit21-10/leetcode-problems/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Harshit21-10/leetcode-problems/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
