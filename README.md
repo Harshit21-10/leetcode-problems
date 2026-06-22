@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Harshit21-10/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Harshit21-10/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Harshit21-10/leetcode-problems/tree/master/0844-backspace-string-compare) |
+| [0977-squares-of-a-sorted-array](https://github.com/Harshit21-10/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Harshit21-10/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Harshit21-10/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Harshit21-10/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/Harshit21-10/leetcode-problems/tree/master/0682-baseball-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/Harshit21-10/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Harshit21-10/leetcode-problems/tree/master/2239-find-closest-number-to-zero) |
 ## Prefix Sum
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Harshit21-10/leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Harshit21-10/leetcode-problems/tree/master/0018-4sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/Harshit21-10/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Monotonic Stack
 |  |
 | ------- |
