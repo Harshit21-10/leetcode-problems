@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshit21-10/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Harshit21-10/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/Harshit21-10/leetcode-problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Harshit21-10/leetcode-problems/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Harshit21-10/leetcode-problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Harshit21-10/leetcode-problems/tree/master/0844-backspace-string-compare) |
 ## Tree
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Harshit21-10/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0682-baseball-game](https://github.com/Harshit21-10/leetcode-problems/tree/master/0682-baseball-game) |
 ## Prefix Sum
 |  |
 | ------- |
