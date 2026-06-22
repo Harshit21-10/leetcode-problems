@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Harshit21-10/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/Harshit21-10/leetcode-problems/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Harshit21-10/leetcode-problems/tree/master/0013-roman-to-integer) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Harshit21-10/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Harshit21-10/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
