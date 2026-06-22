@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harshit21-10/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Harshit21-10/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Harshit21-10/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshit21-10/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0844-backspace-string-compare](https://github.com/Harshit21-10/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshit21-10/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Harshit21-10/leetcode-problems/tree/master/1768-merge-strings-alternately) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit21-10/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Harshit21-10/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshit21-10/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Harshit21-10/leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Harshit21-10/leetcode-problems/tree/master/0018-4sum) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshit21-10/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit21-10/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Monotonic Stack
 |  |
@@ -173,4 +176,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harshit21-10/leetcode-problems/tree/master/0070-climbing-stairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Harshit21-10/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Harshit21-10/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Harshit21-10/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
